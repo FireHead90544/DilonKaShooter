@@ -19,4 +19,10 @@ While On Main Menu Press **SpaceBar** to start the game
 - Left Mouse Click ---> Shoots Bullets
 - Alt + F4         ---> Closes the Games
 
+### WebGL v1 Released
+
+- The WebGL version of the 1st release has been out.
+- You Can Try It Here
+      - https://firehead90544.github.io/DilonKaShooter/
+
 <p>Some rights reserved. </p>
