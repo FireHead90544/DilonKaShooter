@@ -1,0 +1,14 @@
+{
+"companyName": "Infinity&Beyond",
+"productName": "Dilon Ka Shooter",
+"dataUrl": "D.K.S WEBGL Build1.data.unityweb",
+"wasmCodeUrl": "D.K.S WEBGL Build1.wasm.code.unityweb",
+"wasmFrameworkUrl": "D.K.S WEBGL Build1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "D.K.S WEBGL Build1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
