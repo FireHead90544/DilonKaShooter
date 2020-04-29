@@ -38,11 +38,11 @@ While On Main Menu Press **Fire** button to start the game.
 ### Android Build Released
 
 - The Android version release has been out.
-- You Can Try It Here
-
+- You Can Try It Here.
+- 
       v1.0.1
       ==> <a href ="https://github.com/FireHead90544/DilonKaShooter/releases/tag/v1.0.1/">v1.0 for Android is available for download from here.</a>
-
+- 
       v2.0.1
       ==> <a href ="https://github.com/FireHead90544/DilonKaShooter/releases/tag/v2.0.1">v2.0 for Android is available for download from here.</a>
 
