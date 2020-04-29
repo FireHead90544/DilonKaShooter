@@ -9,7 +9,9 @@ Dilon Ka Shooter translated as Shooter of the Heart, is a comical game developed
 
 ## CONTROLS
 
-While On Main Menu Press **SpaceBar** to start the game
+#### PC & WebGL
+
+While On Main Menu Press **SpaceBar** to start the game.
 
 - Left Arrow / A   ---> Move Backwards
 - Right Arrow / D  ---> Move Forwards
@@ -19,10 +21,25 @@ While On Main Menu Press **SpaceBar** to start the game
 - Left Mouse Click ---> Shoots Bullets
 - Alt + F4         ---> Closes the Games
 
+
+#### Android
+
+While On Main Menu Press **Fire** button to start the game.
+
+- Controller       ---> Moves Player
+- Fire Button.     ---> Shoots Bullets
+
 ### WebGL v1 Released
 
 - The WebGL version of the 1st release has been out.
 - You Can Try It Here
       - https://firehead90544.github.io/DilonKaShooter/
+
+### Android Build v1 Released
+
+- The Android version of the 1st release has been out.
+- You Can Try It Here
+      - <a href ="https://github.com/FireHead90544/DilonKaShooter/releases/tag/v1.0.1/">v1.0 for Android is available for download from here.</a>
+
 
 <p>Some rights reserved. </p>
