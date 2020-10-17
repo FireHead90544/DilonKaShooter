@@ -32,8 +32,8 @@ While On Main Menu Press **Fire** button to start the game.
 ### WebGL v1 Released
 
 - The WebGL version of the 1st release has been out.
-- You Can Try It Here
-      - https://firehead90544.github.io/DilonKaShooter/
+- You Can Try It or View The Trailer Here
+      - https://sj-on.github.io/dks/
 
 ### Android Build Released
 
